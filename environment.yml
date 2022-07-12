@@ -1,0 +1,11 @@
+name: zetkin
+channels:
+  - defaults
+dependencies:
+  - python[version='>=3']
+  - phonenumbers
+  - requests
+  - yaml
+  - pyyaml
+  - python-dotenv
+  - python-dateutil
